@@ -1,0 +1,8 @@
+en:
+  routes:
+    articles: articles
+    magazines: magazines
+id:
+  routes:
+    articles: artikel
+    magazines: majalah
